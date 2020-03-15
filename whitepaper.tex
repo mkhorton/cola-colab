@@ -1,0 +1,190 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{color}
+\usepackage{titlesec}
+\usepackage{amsmath}
+\usepackage{physics}
+\usepackage{amsfonts}
+\usepackage{hyperref}
+\usepackage{endnotes}
+\usepackage{booktabs}
+%\usepackage{draftwatermark}
+\graphicspath{{../figures/}}
+
+%\SetWatermarkText{Draft: Do not share}
+%\SetWatermarkScale{2}
+\let\footnote=\endnote
+
+\title{On a Cost of Living Adjustment for Graduate Students in the University of California}
+\author{K. Latimer$^{1}$, M. Horton}
+\date{%
+    $^1$University of California Berkeley, Department of Physics\\%
+    \today
+}
+%\author{K. Latimer$^{1,2}$, M. Horton$^{2}$}
+%\date{%
+%    $^1$University of California Berkeley, Department of Physics\\%
+%    $^2$Science Policy Group at Berkeley\\[2ex]%
+%    \today
+%}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Calls for a Cost of Living Adjustment (COLA) by graduate students across the University of California (UC) system have mobilized activist movements and garnered significant media attention over the course of recent weeks \cite{nyt,latimes,cnn}. In this whitepaper, we summarize the local economic context for these demands and estimate that 98\% of academic graduate students were rent burdened, as defined by the United States Department of Housing and Urban Development (HUD), in the 2018-2019 academic year. This estimate used HUD published statistics for fair market rent as a proxy for average housing costs. We furthermore carry out a simple analysis to determine the order-of-magnitude significance of a COLA that would alleviate this burden for all graduate students in the UC system, and find that the total cost would represent approximately 2\% of the annual system budget. Finally, we highlight several practical considerations for the implementation of such an adjustment. This includes the discrepancies in compensation between different graduate programs, lack of publicly available data on year-round funding support, and the long-term need for a greater quantity of affordable housing in urban centers in California.\\
+
+An accompanying web app with interactive data visualizations is available to the public at \href{https://uc-cola.herokuapp.com}{this address}.
+\end{abstract}
+
+\noindent\emph{Disclaimer: The findings and perspectives offered in this whitepaper do not necessarily represent the viewpoints of the authors' home universities or departments. It is not endorsed by the University of California.}
+
+\newpage
+
+\section{The context for the COLA movement}
+\label{sec1}
+The movement for a Cost of Living Adjustment (COLA) presents a simple demand to the University of California (UC): pay academic graduate students enough to raise them above the federally-defined threshold for rent burden\footnote{We exclude professional graduate students (for instance, medical, law and business students) from this analysis, under the assumption that such programs are generally understood to be self-funded \cite{ucgradstipnotes}. Henceforth, we will use the term `graduate student' to mean `academic graduate student.'} \cite{ucsc}. In this section, we investigate trends in UC graduate student salaries and local housing costs over the past decade, and provide an estimate for the extent to which current salaries leave these students rent-burdened (defined by the United States Department of Housing and Urban Development (HUD) as paying more than 30\% of pre-tax income on rent).
+
+In order to estimate the fraction of UC graduate students who are rent-burdened, we collected mean per-capita stipend data from the UC website `Information Center' \cite{ucgradstip} between the 2007-2008 and 2018-2019 academic years (data from the 2019-2020 academic year is not yet available). We compared those figures to the regional estimates for fair market rent (FMR) calculated by HUD\footnote{The HUD FMR dataset is the most consistent and comprehensive of its kind that we were able to find online. However, it bears noting that these data may not provide an accurate representation of every local housing market at every point in time. For example, Boeing and Waddell found isolated cases in which HUD estimates varied drastically from those derived using data scraped from Craigslist \cite{Boeing2016}.}\footnote{For Davis and San Diego for the years 2018 and 2019, we average over all `small area' FMR values listed for the Sacramento-Roseville-Arden Arcade and San Diego-Carlsbad metropolitan areas, respectively.} \cite{hudfmr}. 
+
+Since HUD reports rent figures for `efficiency'\footnote{Defined as units in which ``the living area is not separated from the sleeping area'' \cite{effic}.}, 1-, 2-, 3-, and 4-bedroom apartments, we calculate average monthly rent as\footnote{Equation (\ref{fmreq}) assumes an equal number of units of each type are available on the market. On average, most of the apartment units available across the United States are 1- and 2-bedroom \cite{aptdistb}. If we were to weight the average in (\ref{fmreq}) by the national average distribution, $\textup{FMR}_{avg}$ would increase.}:
+\begin{equation}
+\label{fmreq}
+\textup{FMR}_{avg} = \frac{1}{5}\Big(\textup{FMR}_{effic} + \textup{FMR}_{1br} + \frac{1}{2}\textup{FMR}_{2br} + \frac{1}{3}\textup{FMR}_{3br} + \frac{1}{4}\textup{FMR}_{4br}\Big)
+\end{equation}
+In general, we find that the value of $\textup{FMR}_{avg}$ tracks well with the average housing costs reported in the UC Office of the President's graduate student support survey \cite{gradsurv}.
+
+In Figures \ref{phdfmr} and \ref{masfmr}, we plot local average fair market rent as a fraction of average stipend for each UC campus, for PhD and master's students, respectively. We take into account the graduate student populations at each campus, and assume that variations in graduate student income about the mean are not too large (see comments below). We thereby estimate that, in the 2018-2019 academic year, 98\% of PhD (i.e., all PhD students in the UC system except those at UC Merced) and 100\% of master's students across the UC system were rent-burdened, yielding a total percentage of 98\% of academic graduate students being rent-burdened. 
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=15cm]{fmr_frac_stipend_phd_figure.png}
+    \caption{Fair market rent (defined by HUD) as a fraction of average monthly PhD stipend, over time.}
+    \label{phdfmr}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=15cm]{fmr_frac_stipend_masters_figure.png}
+    \caption{Fair market rent (defined by HUD) as a fraction of average monthly master's stipend (including only cases in which the average stipend is positive; see text), over time.}
+    \label{masfmr}
+\end{figure}
+\clearpage
+\newpage
+
+In Table \ref{colamon}, we have listed the monthly per-capita COLA (for both PhD and master's students) required at each campus to bring the average stipend above the threshold for rent burden in the 2018-2019 academic year. This value is given by:
+\begin{equation}
+\textup{COLA}_{per.cap, mon} = \frac{\textup{FMR}_{avg}}{0.3} - S_{per.cap, mon}, 
+\end{equation}
+where $S_{per.cap, mon}$ is the average per-capita monthly stipend (after fees and tuition are deducted) at a given campus (adjustment to 2020 inflation levels would be a correction on the order of 1\% of the total magnitudes, so for simplicity we leave the dollar amounts uncorrected). To calculate average stipend values for master's students, we have excluded cases where the net stipend for a given discipline and campus was negative\footnote{This is an imperfect solution to the question of how to define ``income'' (in the context of the HUD definition for rent burden) for students who are paying more in tuition and fees than they are making from research or teaching positions. It may be the case that some master's programs would be better categorized as ``professional,'' rather than ``academic'' (as they are currently labeled in the UC website). However, we proceed as described for the sake of obtaining the desired rough estimate for the cost of a COLA for all graduate students.}. 
+In Table \ref{colaann}, we have listed the total cost of COLA payments (for both PhD and master's students) for the entire 2018-2019 academic year. Here we remark that the online data provided by the UC excludes the three-month summer term (see Section \ref{sec3} for further discussion). The total annual cost of a COLA at a given campus is then given by the formula:
+\begin{equation}
+    \textup{COLA}_{ann} = 9\times N_{stud}\times\textup{COLA}_{per.cap, mon},
+\end{equation}
+where $N_{stud}$ is the number of full-time graduate students enrolled at each campus, as reported by the UC \cite{ucgradstip}.
+
+
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{@{}lrr@{}}
+\toprule
+\textbf{Campus} & \multicolumn{2}{c}{\textbf{Monthly per-capita }} \\ 
+	        & \multicolumn{2}{c}{\textbf{ COLA (\$)}} \\ \midrule
+                & PhD                       & Master’s                      \\
+Berkeley        & 2,741                      & 4,787                          \\
+Davis           & 1,053                      & 2,469                          \\
+Irvine          & 2,836                      & 4,170                          \\
+Los Angeles     & 1,840                      & 3,871                          \\
+Merced          & N/A                       & 1,070                           \\
+Riverside       & 850                       & 1,755                          \\
+San Diego       & 3,144                      & 3,721                          \\
+San Francisco   & 4,076                      & 7,349                          \\
+Santa Barbara   & 2,627                      & 4,980                          \\
+Santa Cruz      & 3,678                      & 4,996                          \\ \bottomrule
+\end{tabular}
+\caption{Estimates for monthly per-capita COLA required to bring PhD and master's students above the federally-defined threshold for rent burden, based on 2018-2019 fair market rent values and average graduate student stipend data. Values have not been adjusted to present-day inflation levels.}
+\label{colamon}
+\end{table}
+\begin{table}[ht]
+\centering
+\begin{tabular}{@{}lrr@{}}
+\toprule
+\textbf{Campus} & \multicolumn{2}{c}{\textbf{Total annual COLA cost}} \\ 
+	        & \multicolumn{2}{c}{\textbf{(\$ in millions)}} \\ \midrule
+                & PhD                         & Master’s                   \\
+Berkeley        & 126.19                   & 4.44                   \\
+Davis           & 32.30                    & 9.24                   \\
+Irvine          & 70.72                    & 6.31                   \\
+Los Angeles     & 72.65                    & 9.72                   \\
+Merced          & N/A                      & 0.04                      \\
+Riverside       & 15.36                    & 1.33                    \\
+San Diego       & 96.13                    & 4.59                   \\
+San Francisco   & 27.14                    & 0.73                     \\
+Santa Barbara   & 54.15                    & 10.67                   \\
+Santa Cruz      & 46.21                    & 3.96                   \\
+Total           & 538.24                   & 51.39                  \\ \bottomrule
+\end{tabular}
+\caption{Estimates (using monthly COLA values from Table \ref{colamon}) for the total annual cost of a COLA, for the 2018-2019 academic year. Values have not been adjusted to present-day inflation levels.}
+\label{colaann}
+\end{table}
+
+\newpage
+
+A number of comments are in order at this point:
+\begin{itemize}
+	\item \textbf{Interpretation of Figures \ref{phdfmr} and \ref{masfmr}:} Although the \emph{average} PhD student at UC Merced in 2018 may not be rent-burdened, this does not, \emph{a priori}, mean that \emph{no} PhD student at UC Merced is. Similarly, one cannot conclude from the data presented here that \emph{every} master's student at, for instance, UC Irvine \emph{is} rent-burdened. In order to sharpen our statement about the number of rent-burdened graduate students in the UC system, we would require the distribution of per-capita stipends at all campuses. To our knowledge, this information does not exist online. We encourage the UC to make such data publicly available in order to facilitate a more accurate analysis.
+	
+	\item \textbf{Agreement with COLA estimates by other groups:} Considering the working level of approximation in this paper, our results are well-aligned with those provided by UAW 2865, as well as by independent student coalitions at UCSC and UCB \cite{uaw, ucsc, kqed}.
+	\item \textbf{Financial burdens besides housing:} In addition to housing costs, graduate students may face a number of other financial burdens. This includes but is not limited to: pre-existing debt from undergraduate studies, expenses incurred from the support of dependents, and the cost of health care beyond what is provided by the university. A complete analysis lies beyond the scope of this paper, but we mention these points in passing to highlight the scope and complexity of the issue.
+\end{itemize}
+\section{Understanding the impact of a COLA}
+\label{sec2}
+In Section \ref{sec1}, we estimated that the total cost of a UC graduate student COLA in the 2018-2019 academic year would be about \$590 million, or \$0.59 billion. To make sense of this number, we offer these figures below for reference, all taken in the 2018-2019 fiscal year (as in Section \ref{sec1} we do not adjust these values for inflation):\\
+
+\indent\indent\indent Annual UC system budget\footnote{Here we take `budget' to mean `total expenses'. In fiscal year 2018-2019, the UC system's total expenses exceeded its total revenues by about \$2.4 billion \cite{ucrevexp}.} \cite{ucrevexp}: \$39.3 billion\\
+\indent\indent\indent\indent \dots salaries and wages: \$17.0 billion\\
+\indent\indent\indent\indent \dots scholarships and fellowships: \$0.9 billion\\
+
+\indent\indent\indent Annual California state budget\footnote{We use the same convention as above, but exclude federal funds allocated for state programs. In fiscal year 2018-2019, the state of California's total revenues exceeded its total expenses by about \$1.1 billion \cite{calsched1}.} \cite{calsched1}: \$205.6 billion\\
+\indent\indent\indent\indent \dots allocated to higher education in CA: \$16.6 billion\\
+\indent\indent\indent\indent \dots allocated to the UC system: \$3.8 billion\\
+
+\indent\indent\indent Annual United States federal budget\footnote{We use the same conventions as above. In fiscal year 2018-2019, the US federal government's total expenses exceeded its total revenues by about \$984 billion \cite{cbo}.} \cite{cbo}: \$4.4 trillion\\
+\indent\indent\indent\indent\indent\indent\indent\indent\indent\indent\indent\indent\indent\indent\indent = \$4,400 billion\\ 
+\indent\indent\indent\indent \dots allocated to the state of California \cite{calsched9}: \$97.3 billion\\
+\indent\indent\indent\indent \dots allocated to higher education in CA \cite{calsched9}: \$5.4 billion\\
+\indent\indent\indent\indent \dots allocated to the UC system \cite{calsched9}: \$3.9 billion\\
+
+Our estimated total COLA cost of \$590 million represents 1.5\% of the total UC annual budget, and 3.5\% of all salaries and wages paid to UC employees. It is just over half the amount disbursed in scholarships and fellowships, which presumably includes awards to both graduates and undergraduates (the cited reference does not provide a precise division). Although our estimate for the COLA cost represents a very small percentage (0.3\%) of the total California state budget, it is non-negligible as a fraction of the state funding allocated to the UC (15.5\%). The story is similar for the analogous federal budget statistics, with the respective percentages working out to 0.01\% and 15.1\%. It may be worth noting that most federal funding to the UC system comes in the form of research grants and contracts, \emph{c.f.} display VII-6 in \cite{ucbudgrep}.
+
+We do not intend to draw any conclusions here from the above computations. Rather, we hope it equips the reader with a quantitative `big picture' understanding of how a UC graduate student COLA would fit into budgets at various levels of administration.
+
+\section{Some considerations}
+\label{sec3}
+To conclude, we highlight a few miscellaneous observations that have emerged throughout the course of our research for this memo.
+\begin{itemize}
+	\item \textbf{Discrepancies in graduate student compensation across disciplines:} In Section \ref{sec1}, we showed that compensation varies dramatically between the master's and PhD levels. The pattern across different disciplines is also striking. As shown in Figure \ref{discstips}, average PhD stipends in the life sciences and physical sciences are consistently higher (by an amount on the order of a few thousand dollars per 9-month academic year) than those in engineering/computer science, fine arts, humanities, and social sciences\footnote{We excluded health sciences from Figure \ref{discstips} due to inconsistencies in the data available online.} (there is some degree of variability in this trend between different UC campuses). For students already living in financially precarious situations, a difference of a few thousand dollars per year in income could make a significant difference in overall quality of life.
+	\item \textbf{Unavailability of summer funding data:} The UC Information Center states with regard to graduate student support data that: ``All figures reflect the fall/winter/spring academic year and exclude the summer term'' \cite{ucgradstip}. However, given that many grad students continue to conduct research during the summer term\footnote{This is certainly true in the physical sciences. The authors confess less familiarity with common practices in other departments.}, this leaves three months out of the year more or less a black box, from the perspective of determining trends in support levels. It would be preferable not to have to blindly extrapolate this analysis into the summer months, and we encourage the UC to record and publish summer funding data for the most accurate possible COLA calculations.
+	\item \textbf{Lack of affordable housing options in and around UC campuses:} Finally, we note that UC graduate students are not the only people struggling to pay for housing in campus towns across the state \cite{housing1,housing2}. While a COLA in the form currently proposed by UC student coalitions would alleviate rent burden for thousands of people, we do not see a direct route by which it would increase the overall availability of affordable housing in the long run. We do not intend to pose this as an argument against COLA, but rather to emphasize that it is not a `silver bullet' solution to rising costs of living and wealth inequality in the state of California.
+\end{itemize}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=10cm]{stipend_by_disc_figure.png}
+    \caption{Average across all UC campuses of 9-month PhD stipend, by discipline. Health sciences has been excluded due to lack of consistent data.}
+    \label{discstips}
+\end{figure}
+
+\newpage\begingroup\parindent 0pt\parskip 0.75ex\def\enotesize{\normalsize}\theendnotes\endgroup
+
+%\newpage
+%\theendnotes
+\newpage
+\nocite{*}
+\bibliographystyle{unsrt}
+\bibliography{refs}
+\end{document}
+

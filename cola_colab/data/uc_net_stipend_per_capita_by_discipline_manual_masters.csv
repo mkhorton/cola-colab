@@ -1,0 +1,872 @@
+Year,Campus,Discipline,Net Stipend,Source
+2007,Systemwide,Engineering & CS,15891,kt-scrape-excel
+2007,Systemwide,Fine Arts,29666,kt-scrape-excel
+2007,Systemwide,Health Sciences,20068,kt-scrape-excel
+2007,Systemwide,Humanities,26235,kt-scrape-excel
+2007,Systemwide,Life Sciences,24358,kt-scrape-excel
+2007,Systemwide,Other,22923,kt-scrape-excel
+2007,Systemwide,Physical Sciences,23658,kt-scrape-excel
+2007,Systemwide,Professional,9019,kt-scrape-excel
+2007,Systemwide,Social Sciences,24074,kt-scrape-excel
+2007,Berkeley,Engineering & CS,20996,kt-scrape-excel
+2007,Berkeley,Fine Arts,32247,kt-scrape-excel
+2007,Berkeley,Health Sciences,22322,kt-scrape-excel
+2007,Berkeley,Humanities,26122,kt-scrape-excel
+2007,Berkeley,Life Sciences,28692,kt-scrape-excel
+2007,Berkeley,Other,25557,kt-scrape-excel
+2007,Berkeley,Physical Sciences,22698,kt-scrape-excel
+2007,Berkeley,Social Sciences,29064,kt-scrape-excel
+2007,Davis,Engineering & CS,17518,kt-scrape-excel
+2007,Davis,Fine Arts,31749,kt-scrape-excel
+2007,Davis,Health Sciences,11109,kt-scrape-excel
+2007,Davis,Humanities,28679,kt-scrape-excel
+2007,Davis,Life Sciences,26397,kt-scrape-excel
+2007,Davis,Other,24589,kt-scrape-excel
+2007,Davis,Physical Sciences,28403,kt-scrape-excel
+2007,Davis,Professional,9019,kt-scrape-excel
+2007,Davis,Social Sciences,23826,kt-scrape-excel
+2007,Irvine,Engineering & CS,9643,kt-scrape-excel
+2007,Irvine,Fine Arts,31491,kt-scrape-excel
+2007,Irvine,Health Sciences,8356,kt-scrape-excel
+2007,Irvine,Humanities,24071,kt-scrape-excel
+2007,Irvine,Life Sciences,14660,kt-scrape-excel
+2007,Irvine,Other,17198,kt-scrape-excel
+2007,Irvine,Physical Sciences,15465,kt-scrape-excel
+2007,Irvine,Social Sciences,16301,kt-scrape-excel
+2007,Los Angeles,Engineering & CS,16754,kt-scrape-excel
+2007,Los Angeles,Fine Arts,25977,kt-scrape-excel
+2007,Los Angeles,Health Sciences,21884,kt-scrape-excel
+2007,Los Angeles,Humanities,24717,kt-scrape-excel
+2007,Los Angeles,Life Sciences,27379,kt-scrape-excel
+2007,Los Angeles,Other,25299,kt-scrape-excel
+2007,Los Angeles,Physical Sciences,20248,kt-scrape-excel
+2007,Los Angeles,Social Sciences,28002,kt-scrape-excel
+2007,Merced,Engineering & CS,27505,kt-scrape-excel
+2007,Merced,Life Sciences,30647,kt-scrape-excel
+2007,Merced,Physical Sciences,27444,kt-scrape-excel
+2007,Merced,Social Sciences,35586,kt-scrape-excel
+2007,Riverside,Engineering & CS,16817,kt-scrape-excel
+2007,Riverside,Fine Arts,24563,kt-scrape-excel
+2007,Riverside,Humanities,28787,kt-scrape-excel
+2007,Riverside,Life Sciences,18535,kt-scrape-excel
+2007,Riverside,Other,11959,kt-scrape-excel
+2007,Riverside,Physical Sciences,26275,kt-scrape-excel
+2007,Riverside,Social Sciences,17892,kt-scrape-excel
+2007,San Diego,Engineering & CS,14989,kt-scrape-excel
+2007,San Diego,Fine Arts,29492,kt-scrape-excel
+2007,San Diego,Humanities,29794,kt-scrape-excel
+2007,San Diego,Life Sciences,20886,kt-scrape-excel
+2007,San Diego,Other,0,kt-scrape-excel
+2007,San Diego,Physical Sciences,19405,kt-scrape-excel
+2007,San Diego,Social Sciences,23473,kt-scrape-excel
+2007,San Francisco,Health Sciences,35022,kt-scrape-excel
+2007,San Francisco,Life Sciences,33286,kt-scrape-excel
+2007,San Francisco,Other,47440,kt-scrape-excel
+2007,Santa Barbara,Engineering & CS,11334,kt-scrape-excel
+2007,Santa Barbara,Fine Arts,32917,kt-scrape-excel
+2007,Santa Barbara,Humanities,17476,kt-scrape-excel
+2007,Santa Barbara,Life Sciences,30681,kt-scrape-excel
+2007,Santa Barbara,Other,21912,kt-scrape-excel
+2007,Santa Barbara,Physical Sciences,17700,kt-scrape-excel
+2007,Santa Barbara,Social Sciences,21191,kt-scrape-excel
+2007,Santa Cruz,Engineering & CS,18371,kt-scrape-excel
+2007,Santa Cruz,Fine Arts,35867,kt-scrape-excel
+2007,Santa Cruz,Humanities,29160,kt-scrape-excel
+2007,Santa Cruz,Life Sciences,31983,kt-scrape-excel
+2007,Santa Cruz,Other,21273,kt-scrape-excel
+2007,Santa Cruz,Physical Sciences,35422,kt-scrape-excel
+2007,Santa Cruz,Social Sciences,25437,kt-scrape-excel
+2008,Systemwide,Engineering & CS,15731,kt-scrape-excel
+2008,Systemwide,Fine Arts,29613,kt-scrape-excel
+2008,Systemwide,Health Sciences,21240,kt-scrape-excel
+2008,Systemwide,Humanities,24841,kt-scrape-excel
+2008,Systemwide,Life Sciences,24427,kt-scrape-excel
+2008,Systemwide,Other,23043,kt-scrape-excel
+2008,Systemwide,Physical Sciences,23340,kt-scrape-excel
+2008,Systemwide,Professional,15976,kt-scrape-excel
+2008,Systemwide,Social Sciences,24119,kt-scrape-excel
+2008,Berkeley,Engineering & CS,20482,kt-scrape-excel
+2008,Berkeley,Fine Arts,28081,kt-scrape-excel
+2008,Berkeley,Health Sciences,26872,kt-scrape-excel
+2008,Berkeley,Humanities,24794,kt-scrape-excel
+2008,Berkeley,Life Sciences,32626,kt-scrape-excel
+2008,Berkeley,Other,24853,kt-scrape-excel
+2008,Berkeley,Physical Sciences,24278,kt-scrape-excel
+2008,Berkeley,Social Sciences,31228,kt-scrape-excel
+2008,Davis,Engineering & CS,20797,kt-scrape-excel
+2008,Davis,Fine Arts,32221,kt-scrape-excel
+2008,Davis,Health Sciences,9041,kt-scrape-excel
+2008,Davis,Humanities,25808,kt-scrape-excel
+2008,Davis,Life Sciences,26942,kt-scrape-excel
+2008,Davis,Other,28336,kt-scrape-excel
+2008,Davis,Physical Sciences,28559,kt-scrape-excel
+2008,Davis,Professional,10927,kt-scrape-excel
+2008,Davis,Social Sciences,20348,kt-scrape-excel
+2008,Irvine,Engineering & CS,7902,kt-scrape-excel
+2008,Irvine,Fine Arts,29366,kt-scrape-excel
+2008,Irvine,Health Sciences,13415,kt-scrape-excel
+2008,Irvine,Humanities,24721,kt-scrape-excel
+2008,Irvine,Life Sciences,16049,kt-scrape-excel
+2008,Irvine,Other,18357,kt-scrape-excel
+2008,Irvine,Physical Sciences,8535,kt-scrape-excel
+2008,Irvine,Social Sciences,18469,kt-scrape-excel
+2008,Los Angeles,Engineering & CS,16196,kt-scrape-excel
+2008,Los Angeles,Fine Arts,26972,kt-scrape-excel
+2008,Los Angeles,Health Sciences,23024,kt-scrape-excel
+2008,Los Angeles,Humanities,25288,kt-scrape-excel
+2008,Los Angeles,Life Sciences,28548,kt-scrape-excel
+2008,Los Angeles,Other,21238,kt-scrape-excel
+2008,Los Angeles,Physical Sciences,22732,kt-scrape-excel
+2008,Los Angeles,Social Sciences,27866,kt-scrape-excel
+2008,Merced,Engineering & CS,37554,kt-scrape-excel
+2008,Merced,Life Sciences,28966,kt-scrape-excel
+2008,Merced,Physical Sciences,21865,kt-scrape-excel
+2008,Merced,Social Sciences,26924,kt-scrape-excel
+2008,Riverside,Engineering & CS,14224,kt-scrape-excel
+2008,Riverside,Fine Arts,30232,kt-scrape-excel
+2008,Riverside,Humanities,26294,kt-scrape-excel
+2008,Riverside,Life Sciences,16701,kt-scrape-excel
+2008,Riverside,Other,5524,kt-scrape-excel
+2008,Riverside,Physical Sciences,25031,kt-scrape-excel
+2008,Riverside,Social Sciences,19775,kt-scrape-excel
+2008,San Diego,Engineering & CS,14788,kt-scrape-excel
+2008,San Diego,Fine Arts,29946,kt-scrape-excel
+2008,San Diego,Humanities,27559,kt-scrape-excel
+2008,San Diego,Life Sciences,20208,kt-scrape-excel
+2008,San Diego,Other,0,kt-scrape-excel
+2008,San Diego,Physical Sciences,20220,kt-scrape-excel
+2008,San Diego,Social Sciences,14351,kt-scrape-excel
+2008,San Francisco,Health Sciences,29661,kt-scrape-excel
+2008,San Francisco,Life Sciences,31145,kt-scrape-excel
+2008,San Francisco,Other,37988,kt-scrape-excel
+2008,Santa Barbara,Engineering & CS,13146,kt-scrape-excel
+2008,Santa Barbara,Fine Arts,33352,kt-scrape-excel
+2008,Santa Barbara,Humanities,15200,kt-scrape-excel
+2008,Santa Barbara,Life Sciences,32561,kt-scrape-excel
+2008,Santa Barbara,Other,21125,kt-scrape-excel
+2008,Santa Barbara,Physical Sciences,17053,kt-scrape-excel
+2008,Santa Barbara,Professional,28598,kt-scrape-excel
+2008,Santa Barbara,Social Sciences,19703,kt-scrape-excel
+2008,Santa Cruz,Engineering & CS,21647,kt-scrape-excel
+2008,Santa Cruz,Fine Arts,31571,kt-scrape-excel
+2008,Santa Cruz,Humanities,31437,kt-scrape-excel
+2008,Santa Cruz,Life Sciences,33275,kt-scrape-excel
+2008,Santa Cruz,Other,26237,kt-scrape-excel
+2008,Santa Cruz,Physical Sciences,29893,kt-scrape-excel
+2008,Santa Cruz,Social Sciences,27224,kt-scrape-excel
+2009,Systemwide,Engineering & CS,15884,kt-scrape-excel
+2009,Systemwide,Fine Arts,30005,kt-scrape-excel
+2009,Systemwide,Health Sciences,21153,kt-scrape-excel
+2009,Systemwide,Humanities,26544,kt-scrape-excel
+2009,Systemwide,Life Sciences,24077,kt-scrape-excel
+2009,Systemwide,Other,24866,kt-scrape-excel
+2009,Systemwide,Physical Sciences,24637,kt-scrape-excel
+2009,Systemwide,Professional,22358,kt-scrape-excel
+2009,Systemwide,Social Sciences,18772,kt-scrape-excel
+2009,Berkeley,Engineering & CS,22188,kt-scrape-excel
+2009,Berkeley,Fine Arts,26998,kt-scrape-excel
+2009,Berkeley,Health Sciences,22462,kt-scrape-excel
+2009,Berkeley,Humanities,25835,kt-scrape-excel
+2009,Berkeley,Life Sciences,28528,kt-scrape-excel
+2009,Berkeley,Other,27925,kt-scrape-excel
+2009,Berkeley,Physical Sciences,22722,kt-scrape-excel
+2009,Berkeley,Professional,22647,kt-scrape-excel
+2009,Berkeley,Social Sciences,27813,kt-scrape-excel
+2009,Davis,Engineering & CS,21765,kt-scrape-excel
+2009,Davis,Fine Arts,31733,kt-scrape-excel
+2009,Davis,Health Sciences,0,kt-scrape-excel
+2009,Davis,Humanities,29475,kt-scrape-excel
+2009,Davis,Life Sciences,27107,kt-scrape-excel
+2009,Davis,Other,30145,kt-scrape-excel
+2009,Davis,Physical Sciences,30723,kt-scrape-excel
+2009,Davis,Professional,23161,kt-scrape-excel
+2009,Davis,Social Sciences,23877,kt-scrape-excel
+2009,Irvine,Engineering & CS,9023,kt-scrape-excel
+2009,Irvine,Fine Arts,30534,kt-scrape-excel
+2009,Irvine,Humanities,25859,kt-scrape-excel
+2009,Irvine,Life Sciences,16974,kt-scrape-excel
+2009,Irvine,Other,26264,kt-scrape-excel
+2009,Irvine,Physical Sciences,16202,kt-scrape-excel
+2009,Irvine,Social Sciences,14619,kt-scrape-excel
+2009,Los Angeles,Engineering & CS,15845,kt-scrape-excel
+2009,Los Angeles,Fine Arts,26597,kt-scrape-excel
+2009,Los Angeles,Health Sciences,22598,kt-scrape-excel
+2009,Los Angeles,Humanities,27528,kt-scrape-excel
+2009,Los Angeles,Life Sciences,24528,kt-scrape-excel
+2009,Los Angeles,Other,27417,kt-scrape-excel
+2009,Los Angeles,Physical Sciences,25648,kt-scrape-excel
+2009,Los Angeles,Professional,32009,kt-scrape-excel
+2009,Los Angeles,Social Sciences,21325,kt-scrape-excel
+2009,Merced,Engineering & CS,41458,kt-scrape-excel
+2009,Merced,Life Sciences,26916,kt-scrape-excel
+2009,Merced,Physical Sciences,31170,kt-scrape-excel
+2009,Merced,Social Sciences,41906,kt-scrape-excel
+2009,Riverside,Engineering & CS,14956,kt-scrape-excel
+2009,Riverside,Fine Arts,27520,kt-scrape-excel
+2009,Riverside,Humanities,26602,kt-scrape-excel
+2009,Riverside,Life Sciences,17729,kt-scrape-excel
+2009,Riverside,Other,1951,kt-scrape-excel
+2009,Riverside,Physical Sciences,26040,kt-scrape-excel
+2009,Riverside,Social Sciences,12884,kt-scrape-excel
+2009,San Diego,Engineering & CS,12614,kt-scrape-excel
+2009,San Diego,Fine Arts,31888,kt-scrape-excel
+2009,San Diego,Humanities,30279,kt-scrape-excel
+2009,San Diego,Life Sciences,23767,kt-scrape-excel
+2009,San Diego,Physical Sciences,21802,kt-scrape-excel
+2009,San Diego,Social Sciences,5955,kt-scrape-excel
+2009,San Francisco,Health Sciences,32591,kt-scrape-excel
+2009,San Francisco,Life Sciences,28507,kt-scrape-excel
+2009,San Francisco,Other,1176,kt-scrape-excel
+2009,Santa Barbara,Engineering & CS,18285,kt-scrape-excel
+2009,Santa Barbara,Fine Arts,28543,kt-scrape-excel
+2009,Santa Barbara,Humanities,16193,kt-scrape-excel
+2009,Santa Barbara,Life Sciences,21407,kt-scrape-excel
+2009,Santa Barbara,Other,27076,kt-scrape-excel
+2009,Santa Barbara,Physical Sciences,23021,kt-scrape-excel
+2009,Santa Barbara,Professional,6000,kt-scrape-excel
+2009,Santa Barbara,Social Sciences,12415,kt-scrape-excel
+2009,Santa Cruz,Engineering & CS,19803,kt-scrape-excel
+2009,Santa Cruz,Fine Arts,33828,kt-scrape-excel
+2009,Santa Cruz,Humanities,25622,kt-scrape-excel
+2009,Santa Cruz,Life Sciences,31729,kt-scrape-excel
+2009,Santa Cruz,Physical Sciences,24238,kt-scrape-excel
+2009,Santa Cruz,Social Sciences,24841,kt-scrape-excel
+2010,Systemwide,Engineering & CS,-6042,kt-scrape-excel
+2010,Systemwide,Fine Arts,7860,kt-scrape-excel
+2010,Systemwide,Health Sciences,8422,kt-scrape-excel
+2010,Systemwide,Humanities,6144,kt-scrape-excel
+2010,Systemwide,Joint/Unknown,16305,kt-scrape-excel
+2010,Systemwide,Life Sciences,2830,kt-scrape-excel
+2010,Systemwide,Other,-212,kt-scrape-excel
+2010,Systemwide,Physical Sciences,3305,kt-scrape-excel
+2010,Systemwide,Professional,5209,kt-scrape-excel
+2010,Systemwide,Social Sciences,-7061,kt-scrape-excel
+2010,Berkeley,Engineering & CS,1912,kt-scrape-excel
+2010,Berkeley,Fine Arts,10440,kt-scrape-excel
+2010,Berkeley,Health Sciences,5651,kt-scrape-excel
+2010,Berkeley,Humanities,5990,kt-scrape-excel
+2010,Berkeley,Life Sciences,15853,kt-scrape-excel
+2010,Berkeley,Other,13080,kt-scrape-excel
+2010,Berkeley,Physical Sciences,2147,kt-scrape-excel
+2010,Berkeley,Social Sciences,9149,kt-scrape-excel
+2010,Davis,Engineering & CS,2050,kt-scrape-excel
+2010,Davis,Fine Arts,11504,kt-scrape-excel
+2010,Davis,Humanities,9932,kt-scrape-excel
+2010,Davis,Life Sciences,8880,kt-scrape-excel
+2010,Davis,Other,10886,kt-scrape-excel
+2010,Davis,Physical Sciences,16082,kt-scrape-excel
+2010,Davis,Professional,5209,kt-scrape-excel
+2010,Davis,Social Sciences,7795,kt-scrape-excel
+2010,Irvine,Engineering & CS,-14240,kt-scrape-excel
+2010,Irvine,Fine Arts,8367,kt-scrape-excel
+2010,Irvine,Humanities,9461,kt-scrape-excel
+2010,Irvine,Life Sciences,-10123,kt-scrape-excel
+2010,Irvine,Other,3764,kt-scrape-excel
+2010,Irvine,Physical Sciences,-12879,kt-scrape-excel
+2010,Irvine,Social Sciences,-5823,kt-scrape-excel
+2010,Los Angeles,Engineering & CS,-8757,kt-scrape-excel
+2010,Los Angeles,Fine Arts,2788,kt-scrape-excel
+2010,Los Angeles,Health Sciences,7638,kt-scrape-excel
+2010,Los Angeles,Humanities,3854,kt-scrape-excel
+2010,Los Angeles,Life Sciences,3098,kt-scrape-excel
+2010,Los Angeles,Other,-15517,kt-scrape-excel
+2010,Los Angeles,Physical Sciences,-3242,kt-scrape-excel
+2010,Los Angeles,Social Sciences,13241,kt-scrape-excel
+2010,Merced,Engineering & CS,19115,kt-scrape-excel
+2010,Merced,Joint/Unknown,16305,kt-scrape-excel
+2010,Merced,Life Sciences,20985,kt-scrape-excel
+2010,Merced,Other,7708,kt-scrape-excel
+2010,Merced,Physical Sciences,16767,kt-scrape-excel
+2010,Merced,Social Sciences,16901,kt-scrape-excel
+2010,Riverside,Engineering & CS,-10281,kt-scrape-excel
+2010,Riverside,Fine Arts,2087,kt-scrape-excel
+2010,Riverside,Humanities,6404,kt-scrape-excel
+2010,Riverside,Life Sciences,2497,kt-scrape-excel
+2010,Riverside,Physical Sciences,11932,kt-scrape-excel
+2010,Riverside,Social Sciences,-8977,kt-scrape-excel
+2010,San Diego,Engineering & CS,-7227,kt-scrape-excel
+2010,San Diego,Fine Arts,9365,kt-scrape-excel
+2010,San Diego,Humanities,11401,kt-scrape-excel
+2010,San Diego,Life Sciences,3658,kt-scrape-excel
+2010,San Diego,Other,398,kt-scrape-excel
+2010,San Diego,Physical Sciences,-1615,kt-scrape-excel
+2010,San Diego,Social Sciences,-1054,kt-scrape-excel
+2010,San Francisco,Health Sciences,14747,kt-scrape-excel
+2010,San Francisco,Life Sciences,17752,kt-scrape-excel
+2010,San Francisco,Other,-26627,kt-scrape-excel
+2010,San Francisco,Social Sciences,7228,kt-scrape-excel
+2010,Santa Barbara,Engineering & CS,-8066,kt-scrape-excel
+2010,Santa Barbara,Fine Arts,7708,kt-scrape-excel
+2010,Santa Barbara,Humanities,-4872,kt-scrape-excel
+2010,Santa Barbara,Life Sciences,-7897,kt-scrape-excel
+2010,Santa Barbara,Other,5917,kt-scrape-excel
+2010,Santa Barbara,Physical Sciences,-30,kt-scrape-excel
+2010,Santa Barbara,Social Sciences,-17941,kt-scrape-excel
+2010,Santa Cruz,Engineering & CS,1886,kt-scrape-excel
+2010,Santa Cruz,Fine Arts,15926,kt-scrape-excel
+2010,Santa Cruz,Humanities,10225,kt-scrape-excel
+2010,Santa Cruz,Life Sciences,12099,kt-scrape-excel
+2010,Santa Cruz,Physical Sciences,8383,kt-scrape-excel
+2010,Santa Cruz,Social Sciences,-5019,kt-scrape-excel
+2011,Systemwide,Engineering & CS,-8994,kt-scrape-excel
+2011,Systemwide,Fine Arts,9055,kt-scrape-excel
+2011,Systemwide,Health Sciences,1284,kt-scrape-excel
+2011,Systemwide,Humanities,7631,kt-scrape-excel
+2011,Systemwide,Life Sciences,1435,kt-scrape-excel
+2011,Systemwide,Other,6828,kt-scrape-excel
+2011,Systemwide,Physical Sciences,1179,kt-scrape-excel
+2011,Systemwide,Professional,3842,kt-scrape-excel
+2011,Systemwide,Social Sciences,-5974,kt-scrape-excel
+2011,Berkeley,Engineering & CS,114,kt-scrape-excel
+2011,Berkeley,Fine Arts,6901,kt-scrape-excel
+2011,Berkeley,Health Sciences,2809,kt-scrape-excel
+2011,Berkeley,Humanities,6986,kt-scrape-excel
+2011,Berkeley,Life Sciences,15575,kt-scrape-excel
+2011,Berkeley,Other,6107,kt-scrape-excel
+2011,Berkeley,Physical Sciences,10969,kt-scrape-excel
+2011,Berkeley,Social Sciences,13572,kt-scrape-excel
+2011,Davis,Engineering & CS,-765,kt-scrape-excel
+2011,Davis,Fine Arts,14011,kt-scrape-excel
+2011,Davis,Humanities,12352,kt-scrape-excel
+2011,Davis,Life Sciences,7267,kt-scrape-excel
+2011,Davis,Other,13395,kt-scrape-excel
+2011,Davis,Physical Sciences,12314,kt-scrape-excel
+2011,Davis,Professional,3787,kt-scrape-excel
+2011,Davis,Social Sciences,10658,kt-scrape-excel
+2011,Irvine,Engineering & CS,-18845,kt-scrape-excel
+2011,Irvine,Fine Arts,7937,kt-scrape-excel
+2011,Irvine,Humanities,8115,kt-scrape-excel
+2011,Irvine,Life Sciences,-5368,kt-scrape-excel
+2011,Irvine,Other,-14944,kt-scrape-excel
+2011,Irvine,Physical Sciences,-14371,kt-scrape-excel
+2011,Irvine,Professional,3643,kt-scrape-excel
+2011,Irvine,Social Sciences,-8626,kt-scrape-excel
+2011,Los Angeles,Engineering & CS,-11381,kt-scrape-excel
+2011,Los Angeles,Fine Arts,4345,kt-scrape-excel
+2011,Los Angeles,Health Sciences,1053,kt-scrape-excel
+2011,Los Angeles,Humanities,6171,kt-scrape-excel
+2011,Los Angeles,Life Sciences,4230,kt-scrape-excel
+2011,Los Angeles,Other,6800,kt-scrape-excel
+2011,Los Angeles,Physical Sciences,179,kt-scrape-excel
+2011,Los Angeles,Social Sciences,11234,kt-scrape-excel
+2011,Merced,Engineering & CS,15962,kt-scrape-excel
+2011,Merced,Life Sciences,18471,kt-scrape-excel
+2011,Merced,Physical Sciences,15918,kt-scrape-excel
+2011,Merced,Social Sciences,18883,kt-scrape-excel
+2011,Riverside,Engineering & CS,-13617,kt-scrape-excel
+2011,Riverside,Fine Arts,3451,kt-scrape-excel
+2011,Riverside,Humanities,6570,kt-scrape-excel
+2011,Riverside,Life Sciences,-832,kt-scrape-excel
+2011,Riverside,Physical Sciences,11,kt-scrape-excel
+2011,Riverside,Social Sciences,-13127,kt-scrape-excel
+2011,San Diego,Engineering & CS,-7254,kt-scrape-excel
+2011,San Diego,Fine Arts,10980,kt-scrape-excel
+2011,San Diego,Humanities,13189,kt-scrape-excel
+2011,San Diego,Life Sciences,4063,kt-scrape-excel
+2011,San Diego,Other,-8152,kt-scrape-excel
+2011,San Diego,Physical Sciences,-2949,kt-scrape-excel
+2011,San Diego,Social Sciences,-3429,kt-scrape-excel
+2011,San Francisco,Health Sciences,1928,kt-scrape-excel
+2011,San Francisco,Life Sciences,-15752,kt-scrape-excel
+2011,Santa Barbara,Engineering & CS,-13097,kt-scrape-excel
+2011,Santa Barbara,Fine Arts,10295,kt-scrape-excel
+2011,Santa Barbara,Humanities,-4471,kt-scrape-excel
+2011,Santa Barbara,Life Sciences,-8950,kt-scrape-excel
+2011,Santa Barbara,Other,3356,kt-scrape-excel
+2011,Santa Barbara,Physical Sciences,-3510,kt-scrape-excel
+2011,Santa Barbara,Social Sciences,-15947,kt-scrape-excel
+2011,Santa Cruz,Engineering & CS,2168,kt-scrape-excel
+2011,Santa Cruz,Fine Arts,12839,kt-scrape-excel
+2011,Santa Cruz,Humanities,10874,kt-scrape-excel
+2011,Santa Cruz,Life Sciences,17250,kt-scrape-excel
+2011,Santa Cruz,Physical Sciences,9553,kt-scrape-excel
+2011,Santa Cruz,Social Sciences,762,kt-scrape-excel
+2012,Systemwide,Engineering & CS,-9688,kt-scrape-excel
+2012,Systemwide,Fine Arts,10090,kt-scrape-excel
+2012,Systemwide,Health Sciences,-5578,kt-scrape-excel
+2012,Systemwide,Humanities,10638,kt-scrape-excel
+2012,Systemwide,Joint/Unknown,-10514,kt-scrape-excel
+2012,Systemwide,Life Sciences,2498,kt-scrape-excel
+2012,Systemwide,Other,-1669,kt-scrape-excel
+2012,Systemwide,Physical Sciences,780,kt-scrape-excel
+2012,Systemwide,Professional,10359,kt-scrape-excel
+2012,Systemwide,Social Sciences,-6526,kt-scrape-excel
+2012,Berkeley,Engineering & CS,635,kt-scrape-excel
+2012,Berkeley,Fine Arts,7058,kt-scrape-excel
+2012,Berkeley,Health Sciences,10310,kt-scrape-excel
+2012,Berkeley,Humanities,4975,kt-scrape-excel
+2012,Berkeley,Life Sciences,17594,kt-scrape-excel
+2012,Berkeley,Other,6162,kt-scrape-excel
+2012,Berkeley,Physical Sciences,-2875,kt-scrape-excel
+2012,Berkeley,Social Sciences,4752,kt-scrape-excel
+2012,Davis,Engineering & CS,2200,kt-scrape-excel
+2012,Davis,Fine Arts,16256,kt-scrape-excel
+2012,Davis,Humanities,15793,kt-scrape-excel
+2012,Davis,Life Sciences,8779,kt-scrape-excel
+2012,Davis,Other,9737,kt-scrape-excel
+2012,Davis,Physical Sciences,5305,kt-scrape-excel
+2012,Davis,Professional,11732,kt-scrape-excel
+2012,Davis,Social Sciences,14887,kt-scrape-excel
+2012,Irvine,Engineering & CS,-18669,kt-scrape-excel
+2012,Irvine,Fine Arts,8541,kt-scrape-excel
+2012,Irvine,Humanities,9288,kt-scrape-excel
+2012,Irvine,Joint/Unknown,-4562,kt-scrape-excel
+2012,Irvine,Life Sciences,-2285,kt-scrape-excel
+2012,Irvine,Other,-14097,kt-scrape-excel
+2012,Irvine,Physical Sciences,-15593,kt-scrape-excel
+2012,Irvine,Professional,-1208,kt-scrape-excel
+2012,Irvine,Social Sciences,-12442,kt-scrape-excel
+2012,Los Angeles,Engineering & CS,-13673,kt-scrape-excel
+2012,Los Angeles,Fine Arts,2139,kt-scrape-excel
+2012,Los Angeles,Health Sciences,-9319,kt-scrape-excel
+2012,Los Angeles,Humanities,8936,kt-scrape-excel
+2012,Los Angeles,Joint/Unknown,-4553,kt-scrape-excel
+2012,Los Angeles,Life Sciences,6605,kt-scrape-excel
+2012,Los Angeles,Physical Sciences,2518,kt-scrape-excel
+2012,Los Angeles,Social Sciences,14788,kt-scrape-excel
+2012,Merced,Engineering & CS,11739,kt-scrape-excel
+2012,Merced,Life Sciences,22770,kt-scrape-excel
+2012,Merced,Physical Sciences,20479,kt-scrape-excel
+2012,Merced,Social Sciences,21015,kt-scrape-excel
+2012,Riverside,Engineering & CS,-14610,kt-scrape-excel
+2012,Riverside,Fine Arts,13824,kt-scrape-excel
+2012,Riverside,Humanities,12552,kt-scrape-excel
+2012,Riverside,Life Sciences,-11148,kt-scrape-excel
+2012,Riverside,Physical Sciences,-6316,kt-scrape-excel
+2012,Riverside,Social Sciences,-16231,kt-scrape-excel
+2012,San Diego,Engineering & CS,-8708,kt-scrape-excel
+2012,San Diego,Fine Arts,12062,kt-scrape-excel
+2012,San Diego,Humanities,18496,kt-scrape-excel
+2012,San Diego,Life Sciences,-1031,kt-scrape-excel
+2012,San Diego,Other,-22703,kt-scrape-excel
+2012,San Diego,Physical Sciences,1004,kt-scrape-excel
+2012,San Diego,Social Sciences,-19072,kt-scrape-excel
+2012,San Francisco,Engineering & CS,-24949,kt-scrape-excel
+2012,San Francisco,Health Sciences,41,kt-scrape-excel
+2012,San Francisco,Joint/Unknown,-28812,kt-scrape-excel
+2012,San Francisco,Life Sciences,22683,kt-scrape-excel
+2012,San Francisco,Other,-25734,kt-scrape-excel
+2012,Santa Barbara,Engineering & CS,-8247,kt-scrape-excel
+2012,Santa Barbara,Fine Arts,11561,kt-scrape-excel
+2012,Santa Barbara,Humanities,1600,kt-scrape-excel
+2012,Santa Barbara,Life Sciences,-8393,kt-scrape-excel
+2012,Santa Barbara,Other,14786,kt-scrape-excel
+2012,Santa Barbara,Physical Sciences,-1369,kt-scrape-excel
+2012,Santa Barbara,Social Sciences,-20637,kt-scrape-excel
+2012,Santa Cruz,Engineering & CS,1255,kt-scrape-excel
+2012,Santa Cruz,Fine Arts,14063,kt-scrape-excel
+2012,Santa Cruz,Humanities,12787,kt-scrape-excel
+2012,Santa Cruz,Life Sciences,13619,kt-scrape-excel
+2012,Santa Cruz,Physical Sciences,16230,kt-scrape-excel
+2012,Santa Cruz,Social Sciences,9855,kt-scrape-excel
+2013,Systemwide,Engineering & CS,-12713,kt-scrape-excel
+2013,Systemwide,Fine Arts,10312,kt-scrape-excel
+2013,Systemwide,Health Sciences,-7981,kt-scrape-excel
+2013,Systemwide,Humanities,11349,kt-scrape-excel
+2013,Systemwide,Joint/Unknown,-4606,kt-scrape-excel
+2013,Systemwide,Life Sciences,3798,kt-scrape-excel
+2013,Systemwide,Other,98,kt-scrape-excel
+2013,Systemwide,Physical Sciences,-2288,kt-scrape-excel
+2013,Systemwide,Professional,7495,kt-scrape-excel
+2013,Systemwide,Social Sciences,-1266,kt-scrape-excel
+2013,Berkeley,Engineering & CS,-5157,kt-scrape-excel
+2013,Berkeley,Fine Arts,4871,kt-scrape-excel
+2013,Berkeley,Health Sciences,7899,kt-scrape-excel
+2013,Berkeley,Humanities,8200,kt-scrape-excel
+2013,Berkeley,Life Sciences,20750,kt-scrape-excel
+2013,Berkeley,Other,6383,kt-scrape-excel
+2013,Berkeley,Physical Sciences,-4602,kt-scrape-excel
+2013,Berkeley,Social Sciences,5883,kt-scrape-excel
+2013,Davis,Engineering & CS,159,kt-scrape-excel
+2013,Davis,Fine Arts,15365,kt-scrape-excel
+2013,Davis,Humanities,16159,kt-scrape-excel
+2013,Davis,Joint/Unknown,-23087,kt-scrape-excel
+2013,Davis,Life Sciences,5943,kt-scrape-excel
+2013,Davis,Other,9072,kt-scrape-excel
+2013,Davis,Physical Sciences,-7117,kt-scrape-excel
+2013,Davis,Professional,11540,kt-scrape-excel
+2013,Davis,Social Sciences,11568,kt-scrape-excel
+2013,Irvine,Engineering & CS,-20398,kt-scrape-excel
+2013,Irvine,Fine Arts,8861,kt-scrape-excel
+2013,Irvine,Humanities,9650,kt-scrape-excel
+2013,Irvine,Joint/Unknown,-3987,kt-scrape-excel
+2013,Irvine,Life Sciences,-3178,kt-scrape-excel
+2013,Irvine,Other,313,kt-scrape-excel
+2013,Irvine,Physical Sciences,-15534,kt-scrape-excel
+2013,Irvine,Professional,-8238,kt-scrape-excel
+2013,Irvine,Social Sciences,-5135,kt-scrape-excel
+2013,Los Angeles,Engineering & CS,-17275,kt-scrape-excel
+2013,Los Angeles,Fine Arts,3084,kt-scrape-excel
+2013,Los Angeles,Health Sciences,-11898,kt-scrape-excel
+2013,Los Angeles,Humanities,9409,kt-scrape-excel
+2013,Los Angeles,Joint/Unknown,7907,kt-scrape-excel
+2013,Los Angeles,Life Sciences,4755,kt-scrape-excel
+2013,Los Angeles,Other,24099,kt-scrape-excel
+2013,Los Angeles,Physical Sciences,3899,kt-scrape-excel
+2013,Los Angeles,Social Sciences,11714,kt-scrape-excel
+2013,Merced,Engineering & CS,10145,kt-scrape-excel
+2013,Merced,Life Sciences,20066,kt-scrape-excel
+2013,Merced,Social Sciences,20890,kt-scrape-excel
+2013,Riverside,Engineering & CS,-14266,kt-scrape-excel
+2013,Riverside,Fine Arts,10411,kt-scrape-excel
+2013,Riverside,Humanities,14514,kt-scrape-excel
+2013,Riverside,Joint/Unknown,-26558,kt-scrape-excel
+2013,Riverside,Life Sciences,52,kt-scrape-excel
+2013,Riverside,Physical Sciences,-3128,kt-scrape-excel
+2013,Riverside,Social Sciences,-8111,kt-scrape-excel
+2013,San Diego,Engineering & CS,-12731,kt-scrape-excel
+2013,San Diego,Fine Arts,12414,kt-scrape-excel
+2013,San Diego,Humanities,17851,kt-scrape-excel
+2013,San Diego,Joint/Unknown,-5539,kt-scrape-excel
+2013,San Diego,Life Sciences,1250,kt-scrape-excel
+2013,San Diego,Other,-9733,kt-scrape-excel
+2013,San Diego,Physical Sciences,-435,kt-scrape-excel
+2013,San Francisco,Health Sciences,-2264,kt-scrape-excel
+2013,San Francisco,Joint/Unknown,-15329,kt-scrape-excel
+2013,San Francisco,Life Sciences,10453,kt-scrape-excel
+2013,San Francisco,Other,-23448,kt-scrape-excel
+2013,Santa Barbara,Engineering & CS,-8485,kt-scrape-excel
+2013,Santa Barbara,Fine Arts,10298,kt-scrape-excel
+2013,Santa Barbara,Humanities,2760,kt-scrape-excel
+2013,Santa Barbara,Joint/Unknown,5911,kt-scrape-excel
+2013,Santa Barbara,Life Sciences,-2519,kt-scrape-excel
+2013,Santa Barbara,Other,11409,kt-scrape-excel
+2013,Santa Barbara,Physical Sciences,-3641,kt-scrape-excel
+2013,Santa Barbara,Social Sciences,-19053,kt-scrape-excel
+2013,Santa Cruz,Engineering & CS,-6751,kt-scrape-excel
+2013,Santa Cruz,Fine Arts,17454,kt-scrape-excel
+2013,Santa Cruz,Humanities,6970,kt-scrape-excel
+2013,Santa Cruz,Life Sciences,13219,kt-scrape-excel
+2013,Santa Cruz,Physical Sciences,17069,kt-scrape-excel
+2013,Santa Cruz,Social Sciences,6535,kt-scrape-excel
+2014,Systemwide,Engineering & CS,-14481,kt-scrape-excel
+2014,Systemwide,Fine Arts,10760,kt-scrape-excel
+2014,Systemwide,Health Sciences,-3189,kt-scrape-excel
+2014,Systemwide,Humanities,11778,kt-scrape-excel
+2014,Systemwide,Joint/Unknown,-5961,kt-scrape-excel
+2014,Systemwide,Life Sciences,2634,kt-scrape-excel
+2014,Systemwide,Other,8752,kt-scrape-excel
+2014,Systemwide,Physical Sciences,-5087,kt-scrape-excel
+2014,Systemwide,Professional,7858,kt-scrape-excel
+2014,Systemwide,Social Sciences,-7416,kt-scrape-excel
+2014,Berkeley,Engineering & CS,-6172,kt-scrape-excel
+2014,Berkeley,Fine Arts,6382,kt-scrape-excel
+2014,Berkeley,Health Sciences,7352,kt-scrape-excel
+2014,Berkeley,Humanities,11748,kt-scrape-excel
+2014,Berkeley,Life Sciences,17260,kt-scrape-excel
+2014,Berkeley,Other,18723,kt-scrape-excel
+2014,Berkeley,Physical Sciences,-1093,kt-scrape-excel
+2014,Berkeley,Social Sciences,14581,kt-scrape-excel
+2014,Davis,Engineering & CS,-765,kt-scrape-excel
+2014,Davis,Fine Arts,18833,kt-scrape-excel
+2014,Davis,Humanities,17131,kt-scrape-excel
+2014,Davis,Joint/Unknown,-5468,kt-scrape-excel
+2014,Davis,Life Sciences,7244,kt-scrape-excel
+2014,Davis,Other,9301,kt-scrape-excel
+2014,Davis,Physical Sciences,-11352,kt-scrape-excel
+2014,Davis,Professional,10559,kt-scrape-excel
+2014,Davis,Social Sciences,6605,kt-scrape-excel
+2014,Irvine,Engineering & CS,-21250,kt-scrape-excel
+2014,Irvine,Fine Arts,8641,kt-scrape-excel
+2014,Irvine,Humanities,11375,kt-scrape-excel
+2014,Irvine,Joint/Unknown,938,kt-scrape-excel
+2014,Irvine,Life Sciences,-9293,kt-scrape-excel
+2014,Irvine,Physical Sciences,-17466,kt-scrape-excel
+2014,Irvine,Professional,-8737,kt-scrape-excel
+2014,Irvine,Social Sciences,-11946,kt-scrape-excel
+2014,Los Angeles,Engineering & CS,-19426,kt-scrape-excel
+2014,Los Angeles,Fine Arts,3363,kt-scrape-excel
+2014,Los Angeles,Health Sciences,-6731,kt-scrape-excel
+2014,Los Angeles,Humanities,7030,kt-scrape-excel
+2014,Los Angeles,Joint/Unknown,8491,kt-scrape-excel
+2014,Los Angeles,Life Sciences,3279,kt-scrape-excel
+2014,Los Angeles,Other,21074,kt-scrape-excel
+2014,Los Angeles,Physical Sciences,-105,kt-scrape-excel
+2014,Los Angeles,Social Sciences,15617,kt-scrape-excel
+2014,Merced,Engineering & CS,9579,kt-scrape-excel
+2014,Merced,Joint/Unknown,19484,kt-scrape-excel
+2014,Merced,Life Sciences,20523,kt-scrape-excel
+2014,Merced,Physical Sciences,22004,kt-scrape-excel
+2014,Merced,Social Sciences,19664,kt-scrape-excel
+2014,Riverside,Engineering & CS,-18069,kt-scrape-excel
+2014,Riverside,Fine Arts,9879,kt-scrape-excel
+2014,Riverside,Humanities,14936,kt-scrape-excel
+2014,Riverside,Joint/Unknown,-26214,kt-scrape-excel
+2014,Riverside,Life Sciences,-4476,kt-scrape-excel
+2014,Riverside,Physical Sciences,-125,kt-scrape-excel
+2014,Riverside,Social Sciences,-4267,kt-scrape-excel
+2014,San Diego,Engineering & CS,-13038,kt-scrape-excel
+2014,San Diego,Fine Arts,13839,kt-scrape-excel
+2014,San Diego,Humanities,19748,kt-scrape-excel
+2014,San Diego,Joint/Unknown,-2576,kt-scrape-excel
+2014,San Diego,Life Sciences,-1953,kt-scrape-excel
+2014,San Diego,Other,-22797,kt-scrape-excel
+2014,San Diego,Physical Sciences,-790,kt-scrape-excel
+2014,San Diego,Social Sciences,-7846,kt-scrape-excel
+2014,San Francisco,Health Sciences,4461,kt-scrape-excel
+2014,San Francisco,Joint/Unknown,-18903,kt-scrape-excel
+2014,San Francisco,Other,-20721,kt-scrape-excel
+2014,Santa Barbara,Engineering & CS,-7680,kt-scrape-excel
+2014,Santa Barbara,Fine Arts,12212,kt-scrape-excel
+2014,Santa Barbara,Humanities,1378,kt-scrape-excel
+2014,Santa Barbara,Joint/Unknown,6746,kt-scrape-excel
+2014,Santa Barbara,Life Sciences,-3154,kt-scrape-excel
+2014,Santa Barbara,Other,9313,kt-scrape-excel
+2014,Santa Barbara,Physical Sciences,-3598,kt-scrape-excel
+2014,Santa Barbara,Social Sciences,-21263,kt-scrape-excel
+2014,Santa Cruz,Engineering & CS,-16282,kt-scrape-excel
+2014,Santa Cruz,Fine Arts,14235,kt-scrape-excel
+2014,Santa Cruz,Humanities,-1705,kt-scrape-excel
+2014,Santa Cruz,Life Sciences,11742,kt-scrape-excel
+2014,Santa Cruz,Physical Sciences,10643,kt-scrape-excel
+2014,Santa Cruz,Social Sciences,-7816,kt-scrape-excel
+2015,Systemwide,Engineering & CS,-15988,kt-scrape-excel
+2015,Systemwide,Fine Arts,11571,kt-scrape-excel
+2015,Systemwide,Health Sciences,-4006,kt-scrape-excel
+2015,Systemwide,Humanities,13242,kt-scrape-excel
+2015,Systemwide,Joint/Unknown,-3756,kt-scrape-excel
+2015,Systemwide,Life Sciences,2438,kt-scrape-excel
+2015,Systemwide,Other,3014,kt-scrape-excel
+2015,Systemwide,Physical Sciences,-6886,kt-scrape-excel
+2015,Systemwide,Professional,10743,kt-scrape-excel
+2015,Systemwide,Social Sciences,-7285,kt-scrape-excel
+2015,Berkeley,Engineering & CS,-7413,kt-scrape-excel
+2015,Berkeley,Fine Arts,6842,kt-scrape-excel
+2015,Berkeley,Health Sciences,7144,kt-scrape-excel
+2015,Berkeley,Humanities,13072,kt-scrape-excel
+2015,Berkeley,Joint/Unknown,25464,kt-scrape-excel
+2015,Berkeley,Life Sciences,16888,kt-scrape-excel
+2015,Berkeley,Other,24925,kt-scrape-excel
+2015,Berkeley,Physical Sciences,7634,kt-scrape-excel
+2015,Berkeley,Social Sciences,12076,kt-scrape-excel
+2015,Davis,Engineering & CS,-3702,kt-scrape-excel
+2015,Davis,Fine Arts,20205,kt-scrape-excel
+2015,Davis,Humanities,16367,kt-scrape-excel
+2015,Davis,Joint/Unknown,2211,kt-scrape-excel
+2015,Davis,Life Sciences,4876,kt-scrape-excel
+2015,Davis,Other,8908,kt-scrape-excel
+2015,Davis,Physical Sciences,-13325,kt-scrape-excel
+2015,Davis,Professional,11678,kt-scrape-excel
+2015,Davis,Social Sciences,5487,kt-scrape-excel
+2015,Irvine,Engineering & CS,-21888,kt-scrape-excel
+2015,Irvine,Fine Arts,8737,kt-scrape-excel
+2015,Irvine,Humanities,13179,kt-scrape-excel
+2015,Irvine,Joint/Unknown,3357,kt-scrape-excel
+2015,Irvine,Life Sciences,-9177,kt-scrape-excel
+2015,Irvine,Other,-31838,kt-scrape-excel
+2015,Irvine,Physical Sciences,-21635,kt-scrape-excel
+2015,Irvine,Professional,3640,kt-scrape-excel
+2015,Irvine,Social Sciences,-6225,kt-scrape-excel
+2015,Los Angeles,Engineering & CS,-19302,kt-scrape-excel
+2015,Los Angeles,Fine Arts,4680,kt-scrape-excel
+2015,Los Angeles,Health Sciences,-10302,kt-scrape-excel
+2015,Los Angeles,Humanities,11370,kt-scrape-excel
+2015,Los Angeles,Joint/Unknown,10026,kt-scrape-excel
+2015,Los Angeles,Life Sciences,7180,kt-scrape-excel
+2015,Los Angeles,Other,15259,kt-scrape-excel
+2015,Los Angeles,Physical Sciences,-1585,kt-scrape-excel
+2015,Los Angeles,Social Sciences,9235,kt-scrape-excel
+2015,Merced,Engineering & CS,4431,kt-scrape-excel
+2015,Merced,Joint/Unknown,15001,kt-scrape-excel
+2015,Merced,Life Sciences,22068,kt-scrape-excel
+2015,Merced,Social Sciences,23309,kt-scrape-excel
+2015,Riverside,Engineering & CS,-19574,kt-scrape-excel
+2015,Riverside,Fine Arts,10317,kt-scrape-excel
+2015,Riverside,Humanities,15611,kt-scrape-excel
+2015,Riverside,Joint/Unknown,-12534,kt-scrape-excel
+2015,Riverside,Life Sciences,-12393,kt-scrape-excel
+2015,Riverside,Physical Sciences,-4957,kt-scrape-excel
+2015,Riverside,Social Sciences,5179,kt-scrape-excel
+2015,San Diego,Engineering & CS,-16480,kt-scrape-excel
+2015,San Diego,Fine Arts,15144,kt-scrape-excel
+2015,San Diego,Humanities,17914,kt-scrape-excel
+2015,San Diego,Joint/Unknown,-17575,kt-scrape-excel
+2015,San Diego,Life Sciences,292,kt-scrape-excel
+2015,San Diego,Other,-16635,kt-scrape-excel
+2015,San Diego,Physical Sciences,-4361,kt-scrape-excel
+2015,San Diego,Social Sciences,9657,kt-scrape-excel
+2015,San Francisco,Health Sciences,15679,kt-scrape-excel
+2015,San Francisco,Joint/Unknown,-23870,kt-scrape-excel
+2015,Santa Barbara,Engineering & CS,-8238,kt-scrape-excel
+2015,Santa Barbara,Fine Arts,13812,kt-scrape-excel
+2015,Santa Barbara,Humanities,-5702,kt-scrape-excel
+2015,Santa Barbara,Joint/Unknown,13327,kt-scrape-excel
+2015,Santa Barbara,Life Sciences,-4022,kt-scrape-excel
+2015,Santa Barbara,Other,-1173,kt-scrape-excel
+2015,Santa Barbara,Physical Sciences,-6165,kt-scrape-excel
+2015,Santa Barbara,Social Sciences,-21839,kt-scrape-excel
+2015,Santa Cruz,Engineering & CS,-18010,kt-scrape-excel
+2015,Santa Cruz,Fine Arts,15063,kt-scrape-excel
+2015,Santa Cruz,Humanities,8920,kt-scrape-excel
+2015,Santa Cruz,Joint/Unknown,-10383,kt-scrape-excel
+2015,Santa Cruz,Life Sciences,18328,kt-scrape-excel
+2015,Santa Cruz,Physical Sciences,10603,kt-scrape-excel
+2015,Santa Cruz,Social Sciences,-14419,kt-scrape-excel
+2016,Berkeley,Social Sciences,11121,kt-scrape-website
+2016,Berkeley,Physical Sciences,10174,kt-scrape-website
+2016,Berkeley,Life Sciences,21660,kt-scrape-website
+2016,Berkeley,Health Sciences,3785,kt-scrape-website
+2016,Berkeley,Humanities,19811,kt-scrape-website
+2016,Berkeley,Fine Arts,3698,kt-scrape-website
+2016,Berkeley,Engineering & CS,-9575,kt-scrape-website
+2016,Davis,Social Sciences,12208,kt-scrape-website
+2016,Davis,Physical Sciences,-4135,kt-scrape-website
+2016,Davis,Life Sciences,6394,kt-scrape-website
+2016,Davis,Health Sciences,16189,kt-scrape-website
+2016,Davis,Humanities,19812,kt-scrape-website
+2016,Davis,Fine Arts,19323,kt-scrape-website
+2016,Davis,Engineering & CS,-3748,kt-scrape-website
+2016,Irvine,Social Sciences,-10368,kt-scrape-website
+2016,Irvine,Physical Sciences,-24508,kt-scrape-website
+2016,Irvine,Life Sciences,-8307,kt-scrape-website
+2016,Irvine,Health Sciences,11775,kt-scrape-website
+2016,Irvine,Humanities,16800,kt-scrape-website
+2016,Irvine,Fine Arts,11202,kt-scrape-website
+2016,Irvine,Engineering & CS,-21956,kt-scrape-website
+2016,Los Angeles,Social Sciences,12831,kt-scrape-website
+2016,Los Angeles,Physical Sciences,-4939,kt-scrape-website
+2016,Los Angeles,Life Sciences,9539,kt-scrape-website
+2016,Los Angeles,Health Sciences,-1929,kt-scrape-website
+2016,Los Angeles,Humanities,24920,kt-scrape-website
+2016,Los Angeles,Fine Arts,8086,kt-scrape-website
+2016,Los Angeles,Engineering & CS,-17271,kt-scrape-website
+2016,Merced,Physical Sciences,25718,kt-scrape-website
+2016,Merced,Life Sciences,25736,kt-scrape-website
+2016,Merced,Humanities,20772,kt-scrape-website
+2016,Merced,Engineering & CS,6623,kt-scrape-website
+2016,Riverside,Social Sciences,19503,kt-scrape-website
+2016,Riverside,Physical Sciences,-12534,kt-scrape-website
+2016,Riverside,Life Sciences,-1333,kt-scrape-website
+2016,Riverside,Humanities,16259,kt-scrape-website
+2016,Riverside,Fine Arts,12572,kt-scrape-website
+2016,Riverside,Engineering & CS,-23147,kt-scrape-website
+2016,Santa Barbara,Social Sciences,-574,kt-scrape-website
+2016,Santa Barbara,Physical Sciences,-1355,kt-scrape-website
+2016,Santa Barbara,Life Sciences,-142,kt-scrape-website
+2016,Santa Barbara,Humanities,-27725,kt-scrape-website
+2016,Santa Barbara,Fine Arts,13079,kt-scrape-website
+2016,Santa Barbara,Engineering & CS,-1884,kt-scrape-website
+2016,Santa Cruz,Physical Sciences,2744,kt-scrape-website
+2016,Santa Cruz,Life Sciences,18634,kt-scrape-website
+2016,Santa Cruz,Humanities,-5805,kt-scrape-website
+2016,Santa Cruz,Fine Arts,18267,kt-scrape-website
+2016,Santa Cruz,Engineering & CS,-20216,kt-scrape-website
+2016,San Diego,Social Sciences,14875,kt-scrape-website
+2016,San Diego,Physical Sciences,-3142,kt-scrape-website
+2016,San Diego,Life Sciences,1255,kt-scrape-website
+2016,San Diego,Humanities,19948,kt-scrape-website
+2016,San Diego,Fine Arts,17589,kt-scrape-website
+2016,San Diego,Engineering & CS,-16938,kt-scrape-website
+2016,San Francisco,Life Sciences,-29599,kt-scrape-website
+2016,San Francisco,Health Sciences,-12419,kt-scrape-website
+2017,Berkeley,Social Sciences,11637,kt-scrape-website
+2017,Berkeley,Physical Sciences,9272,kt-scrape-website
+2017,Berkeley,Life Sciences,15545,kt-scrape-website
+2017,Berkeley,Humanities,35949,kt-scrape-website
+2017,Berkeley,Fine Arts,9383,kt-scrape-website
+2017,Berkeley,Engineering & CS,-5610,kt-scrape-website
+2017,Davis,Social Sciences,15558,kt-scrape-website
+2017,Davis,Physical Sciences,-10729,kt-scrape-website
+2017,Davis,Life Sciences,6837,kt-scrape-website
+2017,Davis,Health Sciences,20597,kt-scrape-website
+2017,Davis,Humanities,19131,kt-scrape-website
+2017,Davis,Fine Arts,18944,kt-scrape-website
+2017,Davis,Engineering & CS,-3175,kt-scrape-website
+2017,Irvine,Social Sciences,-7735,kt-scrape-website
+2017,Irvine,Physical Sciences,-19384,kt-scrape-website
+2017,Irvine,Life Sciences,-9403,kt-scrape-website
+2017,Irvine,Health Sciences,-3359,kt-scrape-website
+2017,Irvine,Humanities,14371,kt-scrape-website
+2017,Irvine,Fine Arts,10853,kt-scrape-website
+2017,Irvine,Engineering & CS,-20588,kt-scrape-website
+2017,Los Angeles,Social Sciences,8590,kt-scrape-website
+2017,Los Angeles,Physical Sciences,-2822,kt-scrape-website
+2017,Los Angeles,Life Sciences,12604,kt-scrape-website
+2017,Los Angeles,Health Sciences,-2932,kt-scrape-website
+2017,Los Angeles,Humanities,22827,kt-scrape-website
+2017,Los Angeles,Fine Arts,6534,kt-scrape-website
+2017,Los Angeles,Engineering & CS,-18664,kt-scrape-website
+2017,Merced,Social Sciences,30232,kt-scrape-website
+2017,Merced,Physical Sciences,28459,kt-scrape-website
+2017,Merced,Life Sciences,24193,kt-scrape-website
+2017,Merced,Humanities,23122,kt-scrape-website
+2017,Merced,Engineering & CS,9600,kt-scrape-website
+2017,Riverside,Social Sciences,20860,kt-scrape-website
+2017,Riverside,Physical Sciences,-14346,kt-scrape-website
+2017,Riverside,Life Sciences,-14302,kt-scrape-website
+2017,Riverside,Humanities,17076,kt-scrape-website
+2017,Riverside,Fine Arts,15103,kt-scrape-website
+2017,Riverside,Engineering & CS,-22655,kt-scrape-website
+2017,Santa Barbara,Social Sciences,4119,kt-scrape-website
+2017,Santa Barbara,Physical Sciences,1513,kt-scrape-website
+2017,Santa Barbara,Life Sciences,-1430,kt-scrape-website
+2017,Santa Barbara,Humanities,-22759,kt-scrape-website
+2017,Santa Barbara,Fine Arts,19564,kt-scrape-website
+2017,Santa Barbara,Engineering & CS,-7570,kt-scrape-website
+2017,Santa Cruz,Physical Sciences,-1474,kt-scrape-website
+2017,Santa Cruz,Life Sciences,13113,kt-scrape-website
+2017,Santa Cruz,Humanities,11083,kt-scrape-website
+2017,Santa Cruz,Fine Arts,17281,kt-scrape-website
+2017,Santa Cruz,Engineering & CS,-19355,kt-scrape-website
+2017,San Diego,Social Sciences,10743,kt-scrape-website
+2017,San Diego,Physical Sciences,-3876,kt-scrape-website
+2017,San Diego,Life Sciences,-6047,kt-scrape-website
+2017,San Diego,Humanities,24187,kt-scrape-website
+2017,San Diego,Fine Arts,18023,kt-scrape-website
+2017,San Diego,Engineering & CS,-17498,kt-scrape-website
+2017,San Francisco,Health Sciences,-14857,kt-scrape-website
+2018,Berkeley,Social Sciences,4879,kt-scrape-website
+2018,Berkeley,Physical Sciences,2662,kt-scrape-website
+2018,Berkeley,Life Sciences,18136,kt-scrape-website
+2018,Berkeley,Humanities,7000,kt-scrape-website
+2018,Berkeley,Fine Arts,14380,kt-scrape-website
+2018,Berkeley,Engineering & CS,-7575,kt-scrape-website
+2018,Davis,Social Sciences,14017,kt-scrape-website
+2018,Davis,Physical Sciences,-13524,kt-scrape-website
+2018,Davis,Life Sciences,7242,kt-scrape-website
+2018,Davis,Health Sciences,26835,kt-scrape-website
+2018,Davis,Humanities,21373,kt-scrape-website
+2018,Davis,Fine Arts,19835,kt-scrape-website
+2018,Davis,Engineering & CS,-8285,kt-scrape-website
+2018,Irvine,Social Sciences,-17949,kt-scrape-website
+2018,Irvine,Physical Sciences,-14556,kt-scrape-website
+2018,Irvine,Life Sciences,-2596,kt-scrape-website
+2018,Irvine,Health Sciences,-9972,kt-scrape-website
+2018,Irvine,Humanities,19869,kt-scrape-website
+2018,Irvine,Fine Arts,10245,kt-scrape-website
+2018,Irvine,Engineering & CS,-19939,kt-scrape-website
+2018,Los Angeles,Social Sciences,9516,kt-scrape-website
+2018,Los Angeles,Physical Sciences,-2388,kt-scrape-website
+2018,Los Angeles,Life Sciences,6059,kt-scrape-website
+2018,Los Angeles,Health Sciences,-5623,kt-scrape-website
+2018,Los Angeles,Humanities,29715,kt-scrape-website
+2018,Los Angeles,Fine Arts,4870,kt-scrape-website
+2018,Los Angeles,Engineering & CS,-16897,kt-scrape-website
+2018,Merced,Physical Sciences,30651,kt-scrape-website
+2018,Merced,Life Sciences,28158,kt-scrape-website
+2018,Merced,Humanities,16655,kt-scrape-website
+2018,Merced,Engineering & CS,2711,kt-scrape-website
+2018,Riverside,Social Sciences,-3586,kt-scrape-website
+2018,Riverside,Physical Sciences,-9690,kt-scrape-website
+2018,Riverside,Life Sciences,3029,kt-scrape-website
+2018,Riverside,Humanities,18265,kt-scrape-website
+2018,Riverside,Fine Arts,15339,kt-scrape-website
+2018,Riverside,Engineering & CS,-22551,kt-scrape-website
+2018,Santa Barbara,Social Sciences,8568,kt-scrape-website
+2018,Santa Barbara,Physical Sciences,12506,kt-scrape-website
+2018,Santa Barbara,Life Sciences,976,kt-scrape-website
+2018,Santa Barbara,Humanities,2592,kt-scrape-website
+2018,Santa Barbara,Fine Arts,17429,kt-scrape-website
+2018,Santa Barbara,Engineering & CS,-8164,kt-scrape-website
+2018,Santa Cruz,Physical Sciences,-6193,kt-scrape-website
+2018,Santa Cruz,Life Sciences,10661,kt-scrape-website
+2018,Santa Cruz,Humanities,7151,kt-scrape-website
+2018,Santa Cruz,Fine Arts,8858,kt-scrape-website
+2018,Santa Cruz,Engineering & CS,-15907,kt-scrape-website
+2018,San Diego,Social Sciences,15514,kt-scrape-website
+2018,San Diego,Physical Sciences,-7856,kt-scrape-website
+2018,San Diego,Life Sciences,-2791,kt-scrape-website
+2018,San Diego,Humanities,25987,kt-scrape-website
+2018,San Diego,Fine Arts,17028,kt-scrape-website
+2018,San Diego,Engineering & CS,-19136,kt-scrape-website
+2018,San Francisco,Health Sciences,8442,kt-scrape-website

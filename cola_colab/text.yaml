@@ -1,0 +1,24 @@
+title: |
+  Cost-of-Living Adjustment (COLA) Whitepaper
+authors: |
+  Katie Latimer¹, Matt Horton
+affiliations: |
+  1. University of California Berkeley, Department of Physics
+disclaimer: |
+  The findings and perspectives offered in this whitepaper do not necessarily represent the viewpoints of the authors' home institutions or departments. It is not endorsed by the University of California.  
+  While every effort has been made to make sure the data it presents is accurate, there may be errors. **If any error is suspected in either the data or associated analysis, please [let us know](mailto:klatimer@berkeley.edu,m.k.horton@gmail.com) and we will correct it as soon as possible.**. 
+  This web site uses Google Analytics to count page views, to opt-out please [see here](https://tools.google.com/dlpage/gaoptout).  
+references: |
+  All graphs on this page refer to graduate students in doctoral programs. For information on masters students, please see the whitepaper. Data was collected from:  
+
+  * [Graduate Student Support Tables, 2007–2015 and UCOP Survey 2017](https://www.ucop.edu/student-affairs/data-and-reporting/graduate-student-support/index.html)
+  * [Net cost of attendance, UC Infocenter](https://www.universityofcalifornia.edu/infocenter/net-cost)
+  * [U.S. Department of Housing and Urban Development, Fair Market Rent Tables](https://www.huduser.gov/portal/datasets/fmr.html)
+  * [University of California Employee Pay](https://ucannualwage.ucop.edu/wage/) via [Transparent California](https://transparentcalifornia.com/salaries/2018/university-of-california/). 
+
+  A complete list of references is available in the [whitepaper](uc-cola-whitepaper.pdf).
+introduction: |
+  Calls for a Cost of Living Adjustment (COLA) by graduate students across the University of California (UC) system have mobilized activist movements and garnered significant media attention over the course of recent weeks. We present a whitepaper that summarizes the local economic context for these demands, a simple analysis for the cost of implementing a COLA, highlighting the variability in compensation between different graduate programs and disciplines. In this accompanying web app, the source data for the whitepaper is available to explore interactively.
+  We hope that this information is useful to the relevant stakeholders, and encourages the further release of similar information in future.
+preview_text: |
+  Learn how graduate student stipends have changed over time compared to the rental market and how much a cost-of-living adjustment (COLA) might cost the UC system.
